@@ -1,0 +1,26 @@
+1. Create a github account https://github.com/
+2. Create a public reposiotry to access this from outside. eg: https://github.com/veena222520/linux
+3. Install git cmd/bash on your windows laptop. 
+
+Use below commands to access your repo to your local laptop.
+
+- configure your git account locally
+
+git config --global user.email "email id"    --> git config --global user.email "veena222520@gmail.com"
+git config --global user.username "email id"  --> git config --global user.name "veena222520"
+
+- clone yoour remote reposiory
+
+git clone remoterepo --> git clone https://github.com/veena222520/linux.git
+
+- create a file locally and push to remote repo
+
+touch file1
+
+git add .
+git commit -m " my changes"
+git push 
+
+thats it you can check your code changes
+
+
