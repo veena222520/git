@@ -1,0 +1,16 @@
+git config --global		 to config git on local user.name and user.email
+git add . 			 used to add all  files 
+git commit: 			to add the message
+git push:			to push the changes to git repo
+git branch <branch name>: 	to create a branch
+git remote -v: 			to check the existing git remote repo in we are working
+git remote add <repo name>      to add repo name
+git remote remove origin        to remove existing origin git repo 
+git pull:			to pull the data from git repo
+git fetch:			to get the data from git repo ......the difference between the git pull and git fetch is pull will make the changes in git repo but fetch will give only the existing data
+git log:			can check the logs and to which log the head is pointing
+git log --oneline		will give logs in one line
+git push origin <branch name>	to push the changes to specific branch like main
+git checkout <branch name>	to sitch to other branch
+git init  			to initialize git repo on our local dir
+
