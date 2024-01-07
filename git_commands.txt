@@ -13,4 +13,5 @@ git log --oneline		will give logs in one line
 git push origin <branch name>	to push the changes to specific branch like main
 git checkout <branch name>	to sitch to other branch
 git init  			to initialize git repo on our local dir
+git clone <repo name>		to clone remote repo
 
