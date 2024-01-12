@@ -1,7 +1,7 @@
 or create a new repository on the command line
 echo "# awsrepo" >> README.md
 git init
-git add README.md
+git add <repo name>
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/veena222520/awsrepo.git
@@ -11,4 +11,29 @@ git push -u origin main
 …or push an existing repository from the command line
 git remote add origin https://github.com/veena222520/awsrepo.git
 git branch -M main
+git push -u origin main
+
+
+
+
+
+u have a repo on git and want to push a file from ur machine to git from g
+
+pwd
+cd "path ofa file"
+pwd
+git init
+git add .
+git commit -m "comment"
+git remote add origin "path from github to the repo"
+git push -u origin master
+now check the github repo
+
+
+how to create anew branch in github repo
+
+git branch <branch name>
+git checkout <branch name>
+git add .
+git commit -m
 git push -u origin main
