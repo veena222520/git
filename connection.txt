@@ -1,0 +1,16 @@
+to commit changes in to git hub from your machine 
+
+go to gitbash
+
+1. check git status
+2. git remote -v <to know remote repo connected >
+3.git add,git commit -m,git push origin main
+
+
+
+if we have a repo in github and want to add on your machine
+
+1.pwd
+2.go to dir to dd i.e  location 
+ex..../c/Users/srika/OneDrive/Desktop/veena learnings/linux
+3. git clone  https://github.com/veena222520/shell_scripting.git
